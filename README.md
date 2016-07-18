@@ -1,2 +1,2 @@
 # breaking-bones
-trying tp learn laravel
+trying to learn laravel
